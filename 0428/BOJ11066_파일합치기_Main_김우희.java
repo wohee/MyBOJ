@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
+// 매트릭스체인 알고리즘
 public class BOJ11066_파일합치기_Main_김우희 {
 
 	public static void main(String[] args) throws IOException {
